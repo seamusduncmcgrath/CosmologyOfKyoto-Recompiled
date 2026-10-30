@@ -1,0 +1,38 @@
+# Original game files: copyrighted, never commit
+/CK_DATA/
+/*.ISO
+/*.EXE
+/*.DLL
+/*.FON
+/*.ICO
+/*.INI
+/*.INF
+/*.HLP
+/README.TXT
+
+# IDA databases
+*.i64
+*.idb
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+
+# clion stuff
+/.idea
+
+# randomm stuff of mine
+/DOS box build
+
+# Per-user Claude Code settings
+/.claude/settings.local.json
+
+# Build output and environments
+/build/
+/.venv/
+__pycache__/
+*.pyc
+
+# Generated C (derived from the game binaries; regenerate with tools/recompile.py emit)
+/generated/
