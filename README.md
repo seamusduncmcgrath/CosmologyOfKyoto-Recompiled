@@ -36,9 +36,9 @@ What's added on top of the original:
 
 Each release comes with a README covering setup and controls:
 
-- Windows: [docs/README-release.txt](docs/README-release.txt)
-- macOS: [docs/README-release-macos.txt](docs/README-release-macos.txt)
-- Switch: [docs/README-release-switch.txt](docs/README-release-switch.txt)
+- Windows: [docs/README-release.md](docs/README-release.md)
+- macOS: [docs/README-release-macos.md](docs/README-release-macos.md)
+- Switch: [docs/README-release-switch.md](docs/README-release-switch.md)
 
 In short:
 
